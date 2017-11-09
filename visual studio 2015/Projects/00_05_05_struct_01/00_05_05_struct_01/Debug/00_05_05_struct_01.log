@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\projects\visual studio 2015\projects\00_05_05_struct_01\00_05_05_struct_01\main.cpp(88): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+d:\projects\visual studio 2015\projects\00_05_05_struct_01\00_05_05_struct_01\main.cpp(90): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+d:\projects\visual studio 2015\projects\00_05_05_struct_01\00_05_05_struct_01\main.cpp(92): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+  00_05_05_struct_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_05_struct_01\Debug\00_05_05_struct_01.exe
+  00_05_05_struct_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_05_struct_01\Debug\00_05_05_struct_01.pdb (Partial PDB)

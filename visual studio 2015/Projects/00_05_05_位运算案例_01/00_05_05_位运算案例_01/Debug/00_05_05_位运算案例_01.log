@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (00_05_05_位运算案例_01.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+d:\projects\visual studio 2015\projects\00_05_05_位运算案例_01\00_05_05_位运算案例_01\main.cpp(229): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“NUMC”
+  00_05_05_位运算案例_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_05_位运算案例_01\Debug\00_06_01_位运算案例_01.exe
+  00_05_05_位运算案例_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_05_位运算案例_01\Debug\00_06_01_位运算案例_01.pdb (Partial PDB)

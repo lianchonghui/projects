@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\projects\visual studio 2015\projects\03_0823_purevirtualfunction_02\03_0823_purevirtualfunction_02\main.cpp(30): error C2259: “son”: 不能实例化抽象类
+  d:\projects\visual studio 2015\projects\03_0823_purevirtualfunction_02\03_0823_purevirtualfunction_02\main.cpp(30): note: 由于下列成员:
+  d:\projects\visual studio 2015\projects\03_0823_purevirtualfunction_02\03_0823_purevirtualfunction_02\main.cpp(30): note: “void abstractClass::show(void)”: 是抽象的
+  d:\projects\visual studio 2015\projects\03_0823_purevirtualfunction_02\03_0823_purevirtualfunction_02\main.cpp(9): note: 参见“abstractClass::show”的声明

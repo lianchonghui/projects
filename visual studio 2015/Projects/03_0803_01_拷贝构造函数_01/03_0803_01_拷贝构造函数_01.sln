@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_0803_01_拷贝构造函数_01", "03_0803_01_拷贝构造函数_01\03_0803_01_拷贝构造函数_01.vcxproj", "{86BF62B9-6DF1-4067-AC8E-6E07331AADAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86BF62B9-6DF1-4067-AC8E-6E07331AADAD}.Debug|x64.ActiveCfg = Debug|x64
+		{86BF62B9-6DF1-4067-AC8E-6E07331AADAD}.Debug|x64.Build.0 = Debug|x64
+		{86BF62B9-6DF1-4067-AC8E-6E07331AADAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{86BF62B9-6DF1-4067-AC8E-6E07331AADAD}.Debug|x86.Build.0 = Debug|Win32
+		{86BF62B9-6DF1-4067-AC8E-6E07331AADAD}.Release|x64.ActiveCfg = Release|x64
+		{86BF62B9-6DF1-4067-AC8E-6E07331AADAD}.Release|x64.Build.0 = Release|x64
+		{86BF62B9-6DF1-4067-AC8E-6E07331AADAD}.Release|x86.ActiveCfg = Release|Win32
+		{86BF62B9-6DF1-4067-AC8E-6E07331AADAD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

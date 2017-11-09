@@ -1,0 +1,18 @@
+﻿  main.c
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(41): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int (*)[3]”
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(41): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int (*)[3]”
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(41): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“int (*)[3]”
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(41): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“int (*)[3]”
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(41): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“int *”
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(256): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int (*)[3]”
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(256): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int (*)[3]”
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(256): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“int (*)[3]”
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(256): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“int *”
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(256): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“int *”
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(256): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(256): note: 占位符和其参数预计 5 可变参数，但提供的却是 7 参数
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(395): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(395): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int (*)[5]”
+d:\projects\visual studio 2015\projects\00_05_01_array_01\00_05_01_array_01\main.c(395): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“int *”
+  00_05_01_array_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_01_array_01\Debug\00_05_01_array_01.exe
+  00_05_01_array_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_01_array_01\Debug\00_05_01_array_01.pdb (Partial PDB)

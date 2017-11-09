@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\projects\visual studio 2015\projects\00_05_01_function_01\00_05_01_function_01\main.cpp(23): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  00_05_01_function_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_01_function_01\Debug\00_05_01_function_01.exe
+  00_05_01_function_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_01_function_01\Debug\00_05_01_function_01.pdb (Partial PDB)

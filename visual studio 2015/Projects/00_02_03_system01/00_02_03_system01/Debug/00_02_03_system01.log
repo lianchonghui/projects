@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\projects\visual studio 2015\projects\00_02_03_system01\00_02_03_system01\main.cpp(14): warning C4129: “:”: 不可识别的字符转义序列
+  00_02_03_system01.vcxproj -> D:\projects\visual studio 2015\Projects\00_02_03_system01\Debug\00_02_03_system01.exe
+  00_02_03_system01.vcxproj -> D:\projects\visual studio 2015\Projects\00_02_03_system01\Debug\00_02_03_system01.pdb (Partial PDB)

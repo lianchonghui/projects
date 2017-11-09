@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\projects\visual studio 2015\projects\00_05_test_01\00_05_test_01\main.cpp(165): warning C4475: “printf”: 不可在格式说明符中将长度修饰符“ll”与类型字段字符“f”一起使用
+d:\projects\visual studio 2015\projects\00_05_test_01\00_05_test_01\main.cpp(183): warning C4475: “printf”: 不可在格式说明符中将长度修饰符“ll”与类型字段字符“f”一起使用
+d:\projects\visual studio 2015\projects\00_05_test_01\00_05_test_01\main.cpp(452): warning C4244: “初始化”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  00_05_test_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_test_01\Debug\00_05_test_01.exe
+  00_05_test_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_test_01\Debug\00_05_test_01.pdb (Partial PDB)

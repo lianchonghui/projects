@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\projects\visual studio 2015\projects\00_06_02_filedemo1_01\00_06_02_filedemo1_01\main.cpp(222): warning C4101: “ch”: 未引用的局部变量
+  00_06_02_fileDemo1_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_06_02_fileDemo1_01\Debug\00_06_02_fileDemo1_01.exe
+  00_06_02_fileDemo1_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_06_02_fileDemo1_01\Debug\00_06_02_fileDemo1_01.pdb (Partial PDB)

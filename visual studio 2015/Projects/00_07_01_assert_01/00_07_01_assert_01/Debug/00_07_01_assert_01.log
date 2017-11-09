@@ -1,0 +1,8 @@
+﻿  main.c
+d:\projects\visual studio 2015\projects\00_07_01_assert_01\00_07_01_assert_01\main.c(34): error C2065: “_FUNCTION_”: 未声明的标识符
+d:\projects\visual studio 2015\projects\00_07_01_assert_01\00_07_01_assert_01\main.c(34): error C2065: “_FILE_”: 未声明的标识符
+d:\projects\visual studio 2015\projects\00_07_01_assert_01\00_07_01_assert_01\main.c(34): error C2065: “_LINE_”: 未声明的标识符
+d:\projects\visual studio 2015\projects\00_07_01_assert_01\00_07_01_assert_01\main.c(34): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+d:\projects\visual studio 2015\projects\00_07_01_assert_01\00_07_01_assert_01\main.c(34): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+d:\projects\visual studio 2015\projects\00_07_01_assert_01\00_07_01_assert_01\main.c(34): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+d:\projects\visual studio 2015\projects\00_07_01_assert_01\00_07_01_assert_01\main.c(34): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”

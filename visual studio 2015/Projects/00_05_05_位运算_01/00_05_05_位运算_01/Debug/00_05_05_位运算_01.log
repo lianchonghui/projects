@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\projects\visual studio 2015\projects\00_05_05_位运算_01\00_05_05_位运算_01\main.cpp(17): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+d:\projects\visual studio 2015\projects\00_05_05_位运算_01\00_05_05_位运算_01\main.cpp(45): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+  00_05_05_位运算_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_05_位运算_01\Debug\00_05_05_位运算_01.exe
+  00_05_05_位运算_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_05_位运算_01\Debug\00_05_05_位运算_01.pdb (Partial PDB)

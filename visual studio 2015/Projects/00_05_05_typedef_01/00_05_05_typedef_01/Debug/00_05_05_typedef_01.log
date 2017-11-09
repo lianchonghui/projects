@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\projects\visual studio 2015\projects\00_05_05_typedef_01\00_05_05_typedef_01\main.cpp(23): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“LL”
+  d:\projects\visual studio 2015\projects\00_05_05_typedef_01\00_05_05_typedef_01\main.cpp(23): note: 请考虑在格式字符串中使用“%lld”
+  d:\projects\visual studio 2015\projects\00_05_05_typedef_01\00_05_05_typedef_01\main.cpp(23): note: 请考虑在格式字符串中使用“%I64d”
+  00_05_05_typedef_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_05_typedef_01\Debug\00_05_05_typedef_01.exe
+  00_05_05_typedef_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_05_05_typedef_01\Debug\00_05_05_typedef_01.pdb (Partial PDB)

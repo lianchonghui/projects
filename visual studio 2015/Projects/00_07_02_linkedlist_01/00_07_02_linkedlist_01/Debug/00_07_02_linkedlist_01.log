@@ -1,0 +1,4 @@
+﻿  linkedlist.cpp
+d:\projects\visual studio 2015\projects\00_07_02_linkedlist_01\00_07_02_linkedlist_01\linkedlist.cpp(233): warning C4715: “reverse2”: 不是所有的控件路径都返回值
+  00_07_02_linkedlist_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_07_02_linkedlist_01\Debug\00_07_02_linkedlist_01.exe
+  00_07_02_linkedlist_01.vcxproj -> D:\projects\visual studio 2015\Projects\00_07_02_linkedlist_01\Debug\00_07_02_linkedlist_01.pdb (Partial PDB)

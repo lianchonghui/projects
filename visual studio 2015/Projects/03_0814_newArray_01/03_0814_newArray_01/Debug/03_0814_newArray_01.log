@@ -1,0 +1,5 @@
+﻿  oldArray.cpp
+d:\projects\visual studio 2015\projects\03_0814_newarray_01\03_0814_newarray_01\oldarray.cpp(21): warning C4101: “ms”: 未引用的局部变量
+d:\projects\visual studio 2015\projects\03_0814_newarray_01\03_0814_newarray_01\oldarray.cpp(20): warning C4101: “ic”: 未引用的局部变量
+  03_0814_newArray_01.vcxproj -> D:\projects\visual studio 2015\Projects\03_0814_newArray_01\Debug\03_0814_newArray_01.exe
+  03_0814_newArray_01.vcxproj -> D:\projects\visual studio 2015\Projects\03_0814_newArray_01\Debug\03_0814_newArray_01.pdb (Partial PDB)
